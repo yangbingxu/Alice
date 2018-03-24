@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+	<pattern>看看这个怎么使用</pattern>
+	<template>
+		我也不知道
+	</template>
+</category>
+
+
+<category>
+	<pattern>真是这样的么</pattern>
+	<that>我也不知道</that>
+	<template>
+		真是的
+	</template>
+</category>
+<topic name="BOOK">
+	
+	<category>
+		<pattern>*</pattern>
+		<template>
+		<think><set name="topic"/></think>
+		<srai><input/></srai>
+		</template>
+	</category>
+</topic>
+</aiml>
