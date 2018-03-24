@@ -1,5 +1,5 @@
 /*
-Copyleft (C) 2004 Hélio Perroni Filho
+Copyleft (C) 2004 Hï¿½lio Perroni Filho
 xperroni@yahoo.com
 ICQ: 2490863
 
@@ -133,7 +133,7 @@ public class AliceBot
   Property Section
   */
 
-  /**
+  /**  
   Returns this AliceBot's Context.
   
   @return The Context associated to this AliceBot.
