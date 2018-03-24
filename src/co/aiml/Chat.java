@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 import bitoflife.chatterbean.AliceBot;
 
-public class Chat 
+public class Chat   
 {
 	public static final String END = "bye";
 	
